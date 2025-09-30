@@ -1,5 +1,5 @@
 # pooledPH
-Repository to hold data and code for the pooled analyses of all LNCO experiments inducing PH.
+Repository to hold data and code for the pooled analyses of all LNCO experiments inducing PH: https://www.biorxiv.org/content/10.1101/2025.09.26.678742v1
 
 Data: stores the .xlsx file with all data from all the experiments. Experiments and labels explained within different sheets in the file
 
